@@ -1,2 +1,3 @@
 # -Covid-19-Dashboard-on-Looker-Studio
-We created a COVID-19 dashboard using Google's Looker Studio, integrating key concepts like data overview, exploratory analysis, interactive exploration, and storytelling. Our goal: to offer a comprehensive understanding of pandemic data for informed decision-making
+
+- [The Covid 19 dashboard on looker studio](https://app.powerbi.com/view?r=eyJrIjoiNmMxYzM5MzUtNjBjYi00ZTEyLThjZDQtYzM0YmRmZTJhM2EzIiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9) was created using Google's Looker Studio, integrating key concepts like data overview, exploratory analysis, interactive exploration, and storytelling. Our goal: to offer a comprehensive understanding of pandemic data for informed decision-making
